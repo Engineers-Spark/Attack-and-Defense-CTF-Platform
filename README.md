@@ -12,7 +12,7 @@
 
 The **Attack and Defense CTF Platform** is a modern, full-stack web application built for hosting competitive cybersecurity events. It provides a complete ecosystem for running Attack-Defense style CTF competitions with real-time scoring, team management, and comprehensive administrative controls.
 
-![img6](screenshots/Image6.png)
+![img6](screenshots/image6.png)
 ![img3](screenshots/Image3.png)
 ![img4](screenshots/Image4.png)
 ![img1](screenshots/Image1.png)
